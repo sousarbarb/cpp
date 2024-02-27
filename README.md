@@ -3,6 +3,7 @@
 ## Getting Started with C++
 
 1. [hello_world](/projects/hello_world/)
+2. [syntax](/projects/syntax/)
 
 ## Contacts
 
