@@ -17,9 +17,12 @@
  *                 arguments entered by the user of the program.
  *                 by convention, argv[0] is the command with which the program
  *                 is invoked
- * @return int
+ * @return int return of the main executable / program
+ *             (usually, 0 indicates successful execution, and -1 or other error
+ *             values may indicate that something went wrong)
  */
 int main(int, char*[])
 {
   std::cout << "Hello World!" << std::endl;
+  return 0;
 }
