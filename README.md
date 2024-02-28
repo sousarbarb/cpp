@@ -1,5 +1,32 @@
 # [cpp](https://github.com/sousarbarb/cpp)
 
+## Documentation
+
+### man
+
+`man` is an interface to the system reference manuals.
+
+```sh
+$ sudo apt install manpages-dev glibc-doc
+$ sudo apt install libstdc++-10-doc
+```
+
+However, this command may be still have limitations in terms of the current
+documentation and/or existence of examples.
+
+**Usage**
+
+```sh
+$ man std::vector
+$ man std::map
+...
+```
+
+### Useful links
+
+- [cppreference](https://en.cppreference.com/)
+- [cplusplus](https://cplusplus.com/reference/)
+
 ## Getting Started with C++
 
 1. [hello_world](/projects/hello_world/)
