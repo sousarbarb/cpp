@@ -32,6 +32,7 @@ $ man std::map
 1. [hello_world](/projects/hello_world/)
 2. [syntax](/projects/syntax/)
 3. [flow_control](/projects/flow_control/)
+4. [array](/projects/array/)
 
 ## Contacts
 
