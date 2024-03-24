@@ -33,6 +33,7 @@ $ man std::map
 2. [syntax](/projects/syntax/)
 3. [flow_control](/projects/flow_control/)
 4. [array](/projects/array/)
+5. [string](/projects/string/)
 
 ## Contacts
 
