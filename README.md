@@ -36,6 +36,7 @@ $ man std::map
 5. [string](/projects/string/)
 6. [cmd_args](/projects/cmd_args/)
 7. [pointers_ref](/projects/pointers_ref/)
+8. [cli_output](/projects/cli_output/)
 
 ## Contacts
 
