@@ -35,6 +35,7 @@ $ man std::map
 4. [array](/projects/array/)
 5. [string](/projects/string/)
 6. [cmd_args](/projects/cmd_args/)
+7. [pointers_ref](/projects/pointers_ref/)
 
 ## Contacts
 
