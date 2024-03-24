@@ -34,6 +34,7 @@ $ man std::map
 3. [flow_control](/projects/flow_control/)
 4. [array](/projects/array/)
 5. [string](/projects/string/)
+6. [cmd_args](/projects/cmd_args/)
 
 ## Contacts
 
