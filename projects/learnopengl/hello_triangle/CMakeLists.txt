@@ -29,3 +29,23 @@ target_link_libraries(${PROJECT_NAME}
   ${CMAKE_DL_LIBS}  # required to link the dl libraries to your target (GLAD)
   glfw
 )
+
+
+
+add_executable(${PROJECT_NAME}_ebo
+  src/glad.c
+  src/main_ebo.cpp
+)
+
+target_compile_options(${PROJECT_NAME}_ebo PRIVATE
+  ${${PROJECT_NAME}_COMPILE_OPTIONS}
+)
+
+target_include_directories(${PROJECT_NAME}_ebo PRIVATE
+  include
+)
+
+target_link_libraries(${PROJECT_NAME}_ebo
+  ${CMAKE_DL_LIBS}  # required to link the dl libraries to your target (GLAD)
+  glfw
+)

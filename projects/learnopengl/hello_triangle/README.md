@@ -14,4 +14,5 @@ make
 
 ```sh
 ./hello_triangle
+./hello_triangle_ebo  # element buffer objects implementation
 ```
